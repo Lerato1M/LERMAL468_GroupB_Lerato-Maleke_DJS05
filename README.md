@@ -67,3 +67,14 @@ Ensure your code is well-commented and adheres to best practices for readability
 - **Documentation**: Clarity of your approach and reflections in the README.md.
 
 This challenge is an excellent opportunity to demonstrate your understanding of state management concepts and functional programming principles. Good luck!
+
+
+# LERMAL458
+# Tally App Redux-Inspired Store
+
+## How to Run
+
+To run the code, simply execute the `tallyStore.js` file using Node.js.
+
+```bash
+node tallyStore.js
